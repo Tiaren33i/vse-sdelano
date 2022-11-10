@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3+pHBVzruHfjz6sHoseU4xfP1vSbfUKHAdlV06hBmVwN6Sl2i399jjQS9HeMPpTk24cJwfz2i3Q85+z5ixdXg==",
+  "success": true,
+  "projectFilePath": "/home/user/Рабочий стол/charp/charp.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
